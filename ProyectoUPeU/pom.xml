@@ -1,0 +1,18 @@
+< proyecto  xmlns = " http://maven.apache.org/POM/4.0.0 "  xmlns : xsi = " http://www.w3.org/2001/XMLSchema-instance "
+  xsi : ubicación del esquema = " http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd " >
+  < versión del modelo >4.0.0</ versión del modelo >
+  < groupId >upeu.edu.pe</ groupId >
+  < artefactoId >ProyectoUPeU</ artefactoId >
+  < embalaje >tarro</ embalaje >
+  < versión >1.0-INSTANTÁNEA</ versión >
+  < nombre >ProyectoUPeU</ nombre >
+  < url >http://maven.apache.org</ url >
+  < dependencias >
+    < dependencia >
+      < groupId >junit</ groupId >
+      < artefactoId >junit</ artefactoId >
+      < versión >3.8.1</ versión >
+      < ámbito > prueba </ ámbito >
+    </ dependencia >
+  </ dependencias >
+</ proyecto >
